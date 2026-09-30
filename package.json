@@ -1,13 +1,13 @@
 {
   "name": "stadtapp",
   "version": "1.0.0",
-  "description": "Simple Node.js, Express and EJS app",
+  "description": "Stadtapp",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "dependencies": {
-    "ejs": "^3.1.10",
-    "express": "^5.1.0"
+    "ejs": "^6.0.1",
+    "express": "^5.2.1"
   }
 }
